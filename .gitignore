@@ -1,0 +1,25 @@
+# MATLAB generated files
+*.asv
+*.mex*
+*.mexa64
+*.mexw64
+*.mexmaci64
+*.fig
+*.mat
+*.slxc
+*.sld8
+*.slddc
+*.rpt
+*.log
+*.out
+*.tmp
+*.autosave
+*.backup
+
+# MATLAB project files
+*.mlproj
+*.prj
+
+# OS and editor files
+.DS_Store
+Thumbs.db
